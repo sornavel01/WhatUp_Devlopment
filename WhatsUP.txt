@@ -12,3 +12,4 @@ Author: Sornavel
 
 5.Hiding the last seen
 
+6.Added audio and video calls feature
