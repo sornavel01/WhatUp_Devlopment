@@ -1,15 +1,14 @@
 THIS IS WHATSUP CODE:
 
-1.Author: Sornavel		
+Author: Sornavel		
 
-2.Profile page code
+1.Profile page code
 
-3.Chat screen code 
+2.Chat screen code 
 
+3.Last seen code
 
-4.Last seen code
+4.Attachements(Image,Audio,video) code
 
-
-5.Attachements(Image,Audio,video) code
-
+5.Hiding the last seen
 
