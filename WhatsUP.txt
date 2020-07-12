@@ -13,4 +13,7 @@ Author: Sornavel
 5.Hiding the last seen
 
 6.Added audio and video calls feature
+
 7.Adding Status so that user can play train games.
+
+8.Adding group featutre to include 100 users.
